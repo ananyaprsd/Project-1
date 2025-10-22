@@ -47,7 +47,5 @@ MSc Electronics (AI Specialization)
 Kerala
 Passionate about Electronics, Artificial Intelligence, and Robotics.
 
-If you found this repository helpful, consider giving it a star on GitHub!
-
-Copy code
+If you found this repository helpful, consider giving it a star on GitHub.
 
