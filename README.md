@@ -1,2 +1,2 @@
-# Project-1
-Good stuff resides here!
+# ML programs
+Collection of my machine learning programs developed during MSc Electronics (AI).
